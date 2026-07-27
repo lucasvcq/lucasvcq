@@ -40,9 +40,9 @@ Mobile app for ICAM students to discover and join student sports/associative act
 
 ### 📫 Contact
 
-- LinkedIn: [your link]
-- Email: [your email]
-- Portfolio: [if you have one]
+- LinkedIn: [Lucas Vacquié](https://www.linkedin.com/in/lucas-vacquié-08ba63329/)
+- Email: lucas.vacquie@2027.icam.fr
+- 📄 [CV / Resume](https://github.com/lucasvcq/cv-latex/blob/main/CV_3.pdf)
 
 *Open to internships/opportunities in embedded systems, power electronics, or robotics.*
 
@@ -84,8 +84,8 @@ Application mobile pour les étudiants ICAM permettant de découvrir et rejoindr
 
 ### 📫 Contact
 
-- LinkedIn : [ton lien]
-- Email : [ton email]
-- Portfolio : [si tu en as un]
+- LinkedIn : [Lucas Vacquié](https://www.linkedin.com/in/lucas-vacquié-08ba63329/)
+- Email : lucas.vacquie@2027.icam.fr
+- 📄 [CV](https://github.com/lucasvcq/cv-latex/blob/main/CV_3.pdf)
 
 *Ouvert aux stages/opportunités en systèmes embarqués, électronique de puissance, ou robotique.*
